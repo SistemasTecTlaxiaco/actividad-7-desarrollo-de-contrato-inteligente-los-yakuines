@@ -247,8 +247,7 @@ Resultados:
 
 <img width="816" height="302" alt="image" src="https://github.com/user-attachments/assets/93152505-bff9-4f01-8256-4019b8cded80" />
 
-* Despliegue verificable
-  <img width="1364" height="581" alt="image" src="https://github.com/user-attachments/assets/80f72cd6-9c4a-4c5f-a586-e592ee7b5cae" />
+
 
 
 ---
