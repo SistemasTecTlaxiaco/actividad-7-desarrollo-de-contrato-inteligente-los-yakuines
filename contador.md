@@ -241,11 +241,14 @@ stellar contract deploy
 
 El sistema cumple con los requisitos de una arquitectura Web3 completa, integrando correctamente un contrato inteligente en TestNet con una API backend robusta.
 
-Se logra:
+Resultados:
+<img width="884" height="560" alt="image" src="https://github.com/user-attachments/assets/da07cd92-5038-40ae-8ab7-c5d042808689" />
+
+
+<img width="816" height="302" alt="image" src="https://github.com/user-attachments/assets/93152505-bff9-4f01-8256-4019b8cded80" />
 
 * Despliegue verificable
-* Integración funcional con blockchain
-* Manejo adecuado de errores
-* Pruebas de extremo a extremo exitosas
+  <img width="1364" height="581" alt="image" src="https://github.com/user-attachments/assets/80f72cd6-9c4a-4c5f-a586-e592ee7b5cae" />
+
 
 ---
